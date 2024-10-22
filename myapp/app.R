@@ -13,7 +13,7 @@ historical_data <- data.frame(
   Category = rep(c("Below 100K", "100K_500K", "500K_1M", "Above 1M"), times = 2),
   NumSuccessfulProjects = c(16, 6, 1, 1, 21, 3, 2, 2),
   SuccessRatePercent = c(47, 33, 25, 100, 39, 14, 40, 25),
-  TotalAmountSecured = c(328778, 1384068, 666647, 1231940, 386236, 598292, 1498418, 3587773),
+  TotalAmountSecured = c(300000, 1300000, 600000, 1200000, 380000, 600000, 1400000, 3500000),
   stringsAsFactors = FALSE
 )
 
